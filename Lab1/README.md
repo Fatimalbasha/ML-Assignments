@@ -1,5 +1,6 @@
 # ml-assignment1
 Hello, I'm Fatimah Albasha (●'◡'●)
+
 I’m an Artificial Intelligence student interested in Machine Learning, deep learning, and applying ML to real-world problems.
 Currently, I’m strengthening my skills in Python and building small projects to grow toward larger AI applications.
 
